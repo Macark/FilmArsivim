@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe.config
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.pdb
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Form1.resources
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.exe
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.pdb
+C:\Users\Asus\Desktop\Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.FrmTamEkran.resources
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe.config
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.exe
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\bin\Debug\FilmArsivim.pdb
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csprojAssemblyReference.cache
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Form1.resources
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.FrmTamEkran.resources
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.Properties.Resources.resources
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.GenerateResource.cache
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.csproj.CoreCompileInputs.cache
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.exe
+D:\ödev proje karısık\C#_Projeler\FilmArsivim\FilmArsivim\obj\Debug\FilmArsivim.pdb
